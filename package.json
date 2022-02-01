@@ -4,6 +4,10 @@
   "description": "Test repo using for sharing of styles between different ng libraries",
   "style": "./dist/styles.css",
   "scss": "./dist/styles.scss",
+   "repository": {
+    "type": "git",
+    "url": "git://github.com/vbnr/test-sass.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
